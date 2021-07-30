@@ -1,5 +1,4 @@
-#Site Link
-https://criclivescore.netlify.app/
+Link -> https://criclivescore.netlify.app/
 
 
 
